@@ -106,4 +106,3 @@ FEISHU_APP_SECRET
 搭建可参考：https://mp.weixin.qq.com/s/oFV4537SysFUv1vESNXoSg?scene=1
 ---
 
-如果你愿意，我可以**再帮你压缩成 3 行超短版本**，直接放在 GitHub 项目顶栏展示。当前文件内容过长，豆包只阅读了前 91%。
